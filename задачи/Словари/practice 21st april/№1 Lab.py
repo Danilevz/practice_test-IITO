@@ -1,0 +1,5 @@
+user=dict()
+user['name']=input('enter name__')
+user['surname']=input('enter surname__')
+user['age']=int(input('enter age__'))
+print(user)
